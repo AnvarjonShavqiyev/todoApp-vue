@@ -8,8 +8,14 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "@heroicons/vue": "1",
+    "@iconify/vue": "^4.1.2",
+    "autoprefixer": "^10.4.20",
     "core-js": "^3.8.3",
-    "vue": "^3.2.13"
+    "postcss": "^8.4.49",
+    "tailwindcss": "^3.4.15",
+    "vue": "^3.2.13",
+    "vue-icons": "^2.0.0"
   },
   "devDependencies": {
     "@babel/core": "^7.12.16",
